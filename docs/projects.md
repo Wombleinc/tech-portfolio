@@ -1,14 +1,12 @@
 ---
-id: projects
-title: Projects
+title: Womble photography website.
 ---
 
-Embed any notable projects in this page.
+This website is something that is an ungoing project that I am working on for my wifes business.
+Of course with zenfolio a lot of the work gets done for you but there is a lot that you have to know on the back end of web development to 
+get exactly what you want out of a website.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](http://womblephoto.com/)
+You can list [links](http://womblephoto.com/)<< for school grade, were having trouble with SSL certificate so link may not work.
 or even embed images with the following Markdown:
 
 ![Add alternate text for image](./assets/rosemary.png)
