@@ -9,4 +9,4 @@ get exactly what you want out of a website.
 You can list [links](http://womblephoto.com/)<< for school grade, were having trouble with SSL certificate so link may not work.
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./website.jpg)
+![Womble Website](./assests/website.JPG)
